@@ -1,5 +1,5 @@
-def cheer
-  puts "Hello Team"
+def cheer(name)
+  puts "Hello Team " + name
 end
 
-cheer
+cheer('Best')
