@@ -1,12 +1,6 @@
 
 def cheer(name)
-  puts "Hello Team " + name
+  puts "Cheer for the " + name
 end
 
-def cheer
-  puts "Hello Team"
-  print "Ruby"
-
-end
-
-cheer('Best')
+cheer('Team')
