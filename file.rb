@@ -1,8 +1,6 @@
-def count(age)
+def count(age, language)
     puts age
-
-    def count
-    print"April"
+    puts language
 end
 
-count(28)
+count(28, 'ruby')
