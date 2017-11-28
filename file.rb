@@ -1,5 +1,5 @@
-def count
-    print"28"
+def count(age)
+    puts age
 end
 
-count
+count(28)
