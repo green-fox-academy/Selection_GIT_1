@@ -1,5 +1,5 @@
-def greet
-    "Tania"
+def greet(name)
+    "Hello " + name
 end
 
-puts greet
+puts greet('Tania')
