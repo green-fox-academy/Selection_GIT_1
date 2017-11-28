@@ -1,6 +1,6 @@
-
-def cheer(name)
-  puts "Cheer for the " + name
+def cheer(name, age)
+  print "Hello Team " + name + age
 end
 
-cheer('Team')
+cheer('Best', '29')
+
