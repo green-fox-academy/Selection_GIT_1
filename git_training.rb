@@ -1,5 +1,6 @@
-def greet(name)
-    name
+def greet(last_name, first_name)
+    puts last_name + ' ' + first_name
 end
 
-puts greet('Greetings')
+greet('Zagon','Kristof')
+greet('Zakar','Adrienn')
