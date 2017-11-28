@@ -1,8 +1,6 @@
 def count(age)
-    puts age
+    puts "Counting the countless " + age
 
-    def count
-    print"April"
 end
 
-count(28)
+count('28')
